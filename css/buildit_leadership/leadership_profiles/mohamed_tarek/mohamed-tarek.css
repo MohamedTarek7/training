@@ -1,0 +1,59 @@
+.header {
+    background-color: #333336;
+    height: 43px;
+    padding: 0px 22px;
+}
+
+.body {
+    margin: auto;
+}
+
+.body-overview {
+    width: 65%;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.personal-image-container {
+    background-color: rgb(65, 113, 96);
+    padding: 20px;
+    border: 5px solid black;
+}
+
+.personal-image {
+    height: 320px;
+    width: 320px;
+    border: 5px solid black;
+}
+
+.section-headline {
+    border: 5px solid black;
+}
+
+.section-subhead {
+    border: 5px solid black;
+}
+
+.ceo_quote {
+    font-size: 30px;
+    font-style: oblique;
+    width: 675px;
+    margin: auto;
+    border: 5px solid black;
+}
+
+.nav-section {
+    width: 65%;
+    margin: auto;
+}
+
+.footer {
+    width: 65%;
+    margin: auto;
+}
+
+.nav_title {
+    font-size: 20px;
+}
+
+.nav {}
