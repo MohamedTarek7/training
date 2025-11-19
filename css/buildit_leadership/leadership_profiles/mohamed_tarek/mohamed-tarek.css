@@ -63,17 +63,20 @@ a {
     position: absolute;
 }
 
-.personal-image-container {
-    /* background-color: rgb(65, 113, 96); */
+/* .personal-image-container {
+    background-color: rgb(65, 113, 96);
     padding: 20px;
-    /* border: 5px solid black; */
-}
+    border: 5px solid black;
+} */
 
 .personal-image {
     height: 320px;
     width: 320px;
-    margin-left: 50%;
-    /* border: 5px solid black; */
+    margin-left: 19%;
+    margin-bottom: 50px;
+    vertical-align: middle;
+    border: 1px solid #333;
+    border-radius: 5%;
 }
 
 .section-headline {
