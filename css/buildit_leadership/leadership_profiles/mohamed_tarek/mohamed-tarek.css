@@ -75,8 +75,8 @@ a {
     margin-left: 19%;
     margin-bottom: 50px;
     vertical-align: middle;
-    border: 1px solid #333;
-    border-radius: 5%;
+    /* border: 1px solid #333;
+    border-radius: 5%; */
 }
 
 .section-headline {
