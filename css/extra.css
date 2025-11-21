@@ -1,0 +1,20 @@
+body {
+    margin: 0%;
+}
+
+.global-header {
+    background-color: #333336;
+    height: 50px;
+}
+
+.headline {
+    width: 70%;
+    margin: auto;
+    color: azure;
+}
+
+.body-overview,
+.footer {
+    width: 70%;
+    margin: auto;
+}
