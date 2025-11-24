@@ -4,7 +4,7 @@ body {
 
 .header {
     background-color: #333336;
-    height: 43px;
+    height: 44px;
     padding: 0px 22px;
     display: flex;
 }
@@ -23,7 +23,7 @@ body {
 }
 
 .leadership-title-container {
-    height: 43px;
+    height: 52px;
     border-width: 0px 0px 1px 0px;
     border-color: #888888;
     border-style: solid;
@@ -33,6 +33,7 @@ body {
 .leadership-section-title {
     color: #000000;
     font-weight: 500;
+    font-size: larger;
 }
 
 .global-nav-ul-li-0 {
@@ -156,7 +157,7 @@ p,
 .body-overview,
 .global-nav,
 .leadership-title-container {
-    width: 65%;
+    width: 980px;
     margin: auto;
 }
 
