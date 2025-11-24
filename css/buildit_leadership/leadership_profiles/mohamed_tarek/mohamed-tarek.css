@@ -7,19 +7,19 @@ body {
     height: 43px;
     padding: 0px 22px;
     display: flex;
-    /* vertical-align: middle; */
 }
 
 .global-nav {
     /* background-color: red; */
+    /* width: 65%;
+    margin: auto; */
 }
 
 .global-nav-ul {
     margin: 0px;
+    padding: 0px;
     display: flex;
-    align-items: center;
-    height: inherit;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .leadership-title-container {
@@ -27,9 +27,10 @@ body {
     border-width: 0px 0px 1px 0px;
     border-color: #888888;
     border-style: solid;
+    align-content: center;
 }
 
-.leadership-title {
+.leadership-section-title {
     color: #000000;
     font-weight: 500;
 }
@@ -45,7 +46,7 @@ body {
 
 .global-nav-submenu-logo {
     height: 25px;
-    width: 32px;
+    width: auto;
     vertical-align: middle;
 }
 
