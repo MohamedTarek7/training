@@ -3,10 +3,37 @@ html {
 }
 
 body {
+    height: 100%;
     width: 65%;
     margin: auto;
-    height: 100%;
     align-content: center;
+}
+
+.div-1 {
+    position: relative;
+    bottom: 0;
+    right: 0;
+    /* top: -31px; */
+}
+
+.div-2 {
+    position: relative;
+    /* top: 31px; */
+}
+
+.div-3 {
+    position: relative;
+    /* top: -31px; */
+}
+
+.div-4 {
+    position: relative;
+    /* top: 31px; */
+}
+
+.div-5 {
+    position: relative;
+    /* top: -31px; */
 }
 
 .div-1,
@@ -26,6 +53,7 @@ body {
 }
 
 .div-container {
+    position: relative;
     padding: 10px;
     background-color: rgb(117, 112, 121);
     /* overflow: hidden; */
