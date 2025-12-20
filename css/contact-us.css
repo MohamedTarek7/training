@@ -35,6 +35,13 @@ table td {
     text-transform: none;
 }
 
+.get-in-touch-note-1 {
+    background-color: rgba(253, 207, 55, 0.123);
+    text-align: center;
+    font-weight: 400;
+    text-transform: none;
+}
+
 a {
     text-decoration: none;
     text-transform: lowercase;
