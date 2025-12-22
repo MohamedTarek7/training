@@ -162,3 +162,13 @@ p {
 .nav_title {
     font-size: 20px;
 }
+
+/* Pseudo Elements */
+::selection {
+    background-color: rgb(214, 214, 214);
+}
+
+.global-nav span::selection {
+    background-color: rgb(214, 214, 214, 0.7);
+    color: #2F2F2F;
+}
