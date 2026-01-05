@@ -150,7 +150,7 @@ p {
     font-weight: 400;
     color: #333;
     line-height: 1.52947;
-    background-color: #f3f3f3;
+    /* background-color: #f3f3f3; */
     padding: 5px;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
@@ -179,7 +179,7 @@ p {
     color: #2F2F2F;
 }
 
-p::before {
+/* p::before {
     content: "";
     position: absolute;
     height: 100%;
@@ -187,4 +187,4 @@ p::before {
     background-color: #696969;
     left: -7px;
     top: 0;
-}
+} */
